@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "<img src=\"./Img/pomerania-xl-848x477x80xX.jpg\" alt=\"\" srcset=\"\">",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoGines/Backend.git"
+  },
+  "author": "Francisco Gines Delgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoGines/Backend/issues"
+  },
+  "homepage": "https://github.com/FranciscoGines/Backend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
