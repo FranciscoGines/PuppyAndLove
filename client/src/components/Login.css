@@ -1,0 +1,22 @@
+.Login-container{
+  display: flex;
+  background: #00c3ff;  
+  background: -webkit-linear-gradient(to right, #ffff1c, #00c3ff); 
+  background: linear-gradient(to right, #ffff1c, #00c3ff); 
+  flex-direction: column;
+  justify-content: center;
+  line-height: 3;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  box-shadow: 12;
+  
+}
+.title{
+  display: flex;
+  justify-content: space-around;
+}
+.linkhome{
+  justify-content: center;
+}
+

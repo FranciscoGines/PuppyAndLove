@@ -1,0 +1,19 @@
+.formularioRegistro{
+  display: flex;
+  background: #00c3ff;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ffff1c, #00c3ff);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffff1c, #00c3ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+
+  flex-direction: column;
+  justify-content: center;
+  line-height: 3;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  box-shadow: 12;
+ 
+   
+
+}
+

@@ -37,7 +37,7 @@
       que tenga que ver con TU usuario registrado ,
       en PUPPY AND LOVE .
       visualizaras la información completa:
-      (id:,nombre:raza,sexo,peso,email:,telefono,contraseña:,mensajes recibidos,posibles matches).
+      (id:,nombre:raza,sexo,peso,email:,contraseña:,mensajes recibidos,posibles matches).
       
 --------------------------------------------
 <img src="./Img/Bloque Usuario.jpg" alt="" srcset="">
@@ -55,7 +55,7 @@
       Datos importantes que se deberan completar
       a la hora de escribir el anuncio:
       (Raza,edad perruna ,fecha nacimiento,
-      sexo.foto,Comentario).
+      sexo.foto y una pequeña descripcion).
       (para mayor seguridad no publicar numeros
        telefonicos,para la proteccion de datos. )
       
