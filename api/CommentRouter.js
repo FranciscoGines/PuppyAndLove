@@ -5,7 +5,7 @@ const jwt = require("jsonwebtoken");
 const tokenValidation = require("../middlewares/tokenValidation");
 const User = require("../models/User");
 // const PerroSchema = require("../models/Perro");
-
+//test
 //para crear nuevo comentario
 commentRouter.post("/newComment/:userId/:idPuppy", tokenValidation, async (req, res) => {     //RUTA 1 CREADA Y COMPROBADA EN POSTMAN
   const { title, comment } = req.body;
